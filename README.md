@@ -1,28 +1,45 @@
 ## My 5-Day Launch into PCB Design 🚀
 
-This project was a rapid, hands-on journey from theory to a physical product. Here's a log of how I built my first custom PCB from scratch in just one week.
+This project was a rapid, hands-on journey from theory to a physical product. Here's a log of how I designed and built my first custom PCB from scratch, with photos from each stage of the process.
 
 ---
 
 ### **Day 1: Unlocking the Lab! 🔑**
-The first challenge was to prove I had the basics down. I tackled the foundational electronics tests and passed! It felt like beating a final boss in a video game, and my reward was the ultimate prize: **full access to the PCB & Fabrication lab**. The real fun was about to begin.
+The journey began by conquering the basics. I passed the foundational electronics tests, which felt like beating a final boss to unlock the ultimate prize: **full access to the PCB & Fabrication lab**. The real adventure was about to start.
 
 ---
 
-### **Day 2: Discovering the Blueprint of Electronics 🗺️**
-Today, I learned about the magic behind every gadget we own: the **Printed Circuit Board (PCB)**. I discovered how these neat green boards are the hidden skeletons that make our phones, laptops, and consoles work. It was mind-blowing to realize I was about to make my own.
+### **Day 2: Discovering the World of PCBs 💡**
+Next, I dove into the theory of **Printed Circuit Boards (PCBs)**. I learned how these essential components are the hidden skeletons inside every gadget we use, providing the foundation for all the electronics.
 
 ---
 
-### **Day 3: Bringing My Circuit to Life in KiCad ✨**
-It was time to become an architect for electricity. Using a powerful software called **KiCad**, I started designing my police siren circuit. First, I drew the schematic (the master plan), then I began laying out the tiny copper "highways" for the electricity to follow. It felt like solving a creative puzzle!
+### **Day 3: Architecting the Schematic 📝**
+It was time to become an architect for electricity. Using **KiCad**, I designed the **schematic layout**. This is the foundational blueprint that shows how every single component connects logically, serving as the master plan for the circuit.
+
+![My KiCad Schematic Layout](https://github.com/ponmudimr/police_siren/blob/d3e42d6981b8454ff906f9a22d752dc2e7d117c6/Pictures/schematic.png)
+*The final schematic design for the police siren circuit.*
 
 ---
 
-### **Day 4: Hitting 'Print' on a Real-Life Circuit! 🏭**
-This was the moment of truth! I sent my completed digital design to our campus fabrication lab. The idea that something I designed on a screen was being physically etched into a real copper board just a few buildings away was incredibly exciting. The countdown to holding it in my hands had officially started.
+### **Day 4: Drawing the Copper Highways 🗺️**
+With the blueprint done, I moved on to the physical design. This involved assigning **footprints** (the physical pads where components will sit) and then carefully routing the **traces** (the copper pathways connecting them). This is where the board takes its final shape.
+
+![PCB Layout with Traces and Footprints](https://github.com/ponmudimr/police_siren/blob/d3e42d6981b8454ff906f9a22d752dc2e7d117c6/Pictures/footprint.png)
+*The final PCB layout in KiCad, showing all the copper traces ready for fabrication.*
 
 ---
 
-### **Day 5: Taming the Soldering Iron 🔥**
-While my custom PCB was being born, I got to learn a classic electronics skill: **soldering**. Armed with a soldering iron and a practice "dot board," I learned the art of melting metal to forge strong electrical connections. There's nothing quite like the smell of solder and the satisfaction of seeing components perfectly locked in place!
+### **Day 5: The Magic of Fabrication 🔥**
+This was the most exciting part! I took my finished design files to the lab and watched as the machine **fabricated the board**. Seeing a digital design get etched into a physical copper-clad board was the perfect reward for all the hard work.
+
+![The Final Fabricated PCB](https://github.com/ponmudimr/police_siren/blob/d3e42d6981b8454ff906f9a22d752dc2e7d117c6/Pictures/fabricated_board.jpg)
+*The freshly fabricated board, ready for soldering!*
+
+---
+
+### **Next Up: Assembly & Soldering 🛠️**
+The final step is to bring the circuit to life by soldering all the components onto the new board. I already practiced my skills on a dot board to prepare for this final assembly.
+
+![Soldering Practice on a Dot Board](https://github.com/ponmudimr/police_siren/blob/d3e42d6981b8454ff906f9a22d752dc2e7d117c6/Pictures/DOTBOARD_TRIAL.jpg)
+*My practice prototype on a dot board, which helped me verify the circuit and improve my soldering skills.*
